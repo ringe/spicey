@@ -5,7 +5,7 @@
 #   gem 'sqlite3'
 development:
   adapter: sqlite3
-  database: db/spiceworks_prod.db
+  database: ../spiceworks_prod.db
   pool: 5
   timeout: 5000
 
