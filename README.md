@@ -28,6 +28,8 @@ You have a backdoor to the Spiceworks web app database.
 Right click on the spicey folder, and run Git Bash.
 Run ```bundle exec rails c``` to open the [Rails console](http://guides.rubyonrails.org/command_line.html).
 
+Initializing the Rails app will copy the Spiceworks database to a -backup file in the same folder, every time.
+
 To add work / time spent on a ticket, you can do:
 
 ```ruby
