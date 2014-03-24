@@ -37,7 +37,7 @@ u.worked("4h 15min", 3.days.ago, 165, "Moved that server to a new room.\n#close"
 
 The arguments are: time (String), date (DateTime), ticket_id (Integer), comment (String)
 
-You can omit the comment if you want.
+You can omit the comment if you want, or add [Spiceworks commands](http://community.spiceworks.com/help/Tickets_Anywhere) after newline (\n).
 
 ## Contributions
 
