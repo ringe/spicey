@@ -2,6 +2,8 @@
 
 Spicey is a Rails app using the Spiceworks database.
 
+WARNING: This might mess up your production database!
+
 ## Installation
 
 This needs to take place on your Spiceworks host.
